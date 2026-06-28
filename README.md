@@ -18,7 +18,7 @@ A clean, responsive, and pixel-perfect corporate website built with **Next.js (A
 ##  Technology Stack
 
 *   **Framework**: Next.js 14+ (App Router)
-*   **Language**: TypeScript / JavaScript
+*   **Language**: TypeScript
 *   **Styling**: Tailwind CSS v4 + PostCSS
 *   **Icons**: Lucide React
 *   **Core**: React 19
